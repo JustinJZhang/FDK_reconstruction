@@ -1,2 +1,2 @@
 # FDK_reconstruction
-用于锥束CT重建的FDK算法
+用于锥束CT重建的FDK算法及其正投影
