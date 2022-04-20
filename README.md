@@ -10,7 +10,7 @@
 重建结果：
 ![](reconstruction.png)
 
-获取完整报告或交流请start discussion或E-mail：zhangjj83@mail2.sysu.edu.cn。
+获取完整报告、数据或交流请start discussion或E-mail：zhangjj83@mail2.sysu.edu.cn。
 
 ## Requirements
 * Astra 2.1：```conda install -c astra-toolbox astra-toolbox```
